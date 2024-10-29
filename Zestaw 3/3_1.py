@@ -9,7 +9,7 @@ else:
 
 for i in "axby": if ord(i) < 100: print (i)
 
-#Ten kod jest niepoprawny ponieważ brakuje wcięcia po instruckji if
+#Ten kod jest niepoprawny ponieważ brakuje wcięcia po instruckji if oraz for
 
 for i in "axby": print (ord(i) if ord(i) < 100 else i)
 
