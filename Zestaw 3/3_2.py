@@ -1,5 +1,5 @@
 L = [3, 5, 4] ; L = L.sort()
-#L.sort() zwraca None a nie posortowana liczbe przez co L równa sie none
+#L.sort() zwraca None a nie posortowana liste przez co L równa sie none
 
 x, y = 1, 2, 3
 #ten kod jest niepoprawny ponieważ po prawej stronie są trzy wartości a po lewej tylko dwie zmienne
