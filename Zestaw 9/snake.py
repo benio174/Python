@@ -118,7 +118,6 @@ while running:
             snake.eat_fruit()
             score += 1
 
-        #speed += SNAKE_SPEED_INCREMENT
         fruit = None
 
     for segment in snake.body:
